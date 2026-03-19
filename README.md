@@ -1,4 +1,4 @@
-# Week 7 Practical 2: localStorage and sessionStorage
+# Week 8 Practical 1: localStorage and sessionStorage
 
 In this practical you will design and implement client-side data storage to improve the user experience for a handful of webpages. 
 
