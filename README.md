@@ -37,7 +37,7 @@ Next, add some data to localStorage using Chrome (not code):
 You can view and modify data stored in sessionStorage in the same way. Just go to the Session Storage area in the Application tab of Chrome Developer tools.
 
 ## Stage 2: Getting and setting localStorage data
-You will need your completed code for last practical, exercise 2.1 (the theme selector). You can also use the sample solution for that exercise. The website that you created for exercise 2.1 in the last practical allowed the user to change the theme of the website. Enhance that website by saving the user’s preference in `localStorage`. If the user has a saved preference, the website should automatically render using their preferred theme. Here are the steps:
+You will need your completed code for Week 7 Practical 1, exercise 2.1 (the theme selector). You can also use the sample solution for that exercise. The website that you created for exercise 2.1 in Week 7 Practical 1 allowed the user to change the theme of the website. Enhance that website by saving the user’s preference in `localStorage`. If the user has a saved preference, the website should automatically render using their preferred theme. Here are the steps:
 
 1.	Decide the structure of the stored preference data. There are multiple possible structures that would be appropriate.
 
